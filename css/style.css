@@ -110,3 +110,16 @@ footer p{
   color: #fff;
   font-size: 0.875rem;
 }
+/* 記事部分 */
+article{
+  width: 74%;
+}
+/* サイドバー */
+aside{
+  width: 22%;
+}
+.news-contents{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
