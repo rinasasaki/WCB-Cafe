@@ -250,3 +250,14 @@ display: block;
     margin-top: 20%;
   }
 }
+article{
+  width: 60%;
+  order: 2;
+}
+aside{
+  width: 22%;
+  order: 3;
+}
+.ad{
+  order: 1;
+}
